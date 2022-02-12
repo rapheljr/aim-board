@@ -1,0 +1,31 @@
+div {
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 38px;
+    box-sizing: border-box;
+}
+
+#circle1 {
+    width: 800px;
+}
+
+#circle3,
+#circle4 {
+    background-color: black;
+    border: 2px solid white;
+}
+
+#circle5,
+#circle6 {
+    background-color: skyblue;
+}
+
+#circle7,
+#circle8 {
+    background-color: red;
+}
+
+#circle9,
+#circle10 {
+    background-color: yellow;
+}
